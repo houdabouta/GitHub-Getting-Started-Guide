@@ -1,0 +1,40 @@
+# Sensitive files
+.env
+*.env
+.env.*
+**/secrets.json
+**/config/credentials/
+
+# Personal data
+data/
+*.csv
+*.xlsx
+*.json
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Cache directories
+cache/
+temp/
+tmp/
