@@ -453,5 +453,44 @@ git log --oneline
 6. **Rotate tokens** every 90 days
 7. **Use minimum required permissions** for tokens
 
+## 📚 Official Documentation Sources
+
+### **Core Git Documentation:**
+- **Git Official Documentation:** https://git-scm.com/docs
+- **Git Tutorial:** https://git-scm.com/docs/gittutorial
+- **Git Reference Manual:** https://git-scm.com/docs/git
+
+### **GitHub Official Documentation:**
+- **GitHub Docs:** https://docs.github.com/
+- **Getting Started with Git:** https://docs.github.com/en/get-started/getting-started-with-git
+- **Set up Git:** https://docs.github.com/en/get-started/getting-started-with-git/set-up-git
+
+### **GitHub CLI Documentation:**
+- **GitHub CLI Manual:** https://cli.github.com/manual/
+- **GitHub CLI Authentication:** https://cli.github.com/manual/gh_auth_login
+- **GitHub CLI Repository Commands:** https://cli.github.com/manual/gh_repo
+
+### **Specific Command Documentation:**
+
+**Authentication & Setup:**
+- https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
+**Repository Management:**
+- https://docs.github.com/en/repositories/creating-and-managing-repositories
+- https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+
+**Gitignore Patterns:**
+- https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+- https://github.com/github/gitignore (Official .gitignore templates)
+
+**Branching and Workflow:**
+- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
+- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+**Security Best Practices:**
+- https://docs.github.com/en/code-security/getting-started/securing-your-repository
+- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure
+
 ---
 **🎉 You're now ready for professional Git/GitHub workflows!**
